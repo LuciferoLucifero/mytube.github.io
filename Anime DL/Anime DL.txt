@@ -1,0 +1,23 @@
+! Title: Anime DL
+! Expires: 7 days
+! Homepage: https://github.com/Karmesinrot/Anifiltrs
+! Description: Filters for Anime DL sites
+
+! sukidesuost.info
+sukidesuost.info##+js(aopw, _pop)
+
+! hikarinoakariost.info
+! Counter copy protection
+||hikarinoakariost.info/wp-content/plugins/secure-copy-content-protection/*
+! ads
+hikarinoakariost.info##+js(acis, String.fromCharCode, decodeURIComponent)
+
+! anidl
+anidl.org##+js(acis, String.fromCharCode, decodeURIComponent)
+
+! erai-raws.info
+*$script,redirect-rule=noopjs,domain=erai-raws.info
+
+! mtencodes.blogspot.com
+mtencodes.blogspot.com##+js(acis, String.fromCharCode, charCodeAt)
+*$script,redirect-rule=noopjs,domain=mtencodes.blogspot.com

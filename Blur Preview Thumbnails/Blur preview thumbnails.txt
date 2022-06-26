@@ -1,0 +1,219 @@
+! Title: Anifiltrs — 🍶 Blur Preview Thumbnails
+! Expires: 8 days
+! Homepage: https://github.com/Karmesinrot/Anifiltrs
+! Description: Filter list for applying a blur Filter to preview thumbnails on video players
+
+! mycloud
+mcloud.to,mcloud2.to,mzcloud.life##.jw-preview.jw-reset:style(filter:blur(8px);)
+
+! mystream
+mstream.*,mysembed.net,mystream.to##.vjs-poster:style(filter:blur(12px) saturate(120%)!important;)
+
+! mp4upload
+mp4upload.com##.vjs-poster,.plyr__poster:style(filter:blur(8px) saturate(150%) !important;)
+
+! fembed
+doodstreams.co,embed.best,embed.media,embedsito.com,fcdn.stream,fembed-hd.com,fembed.com,fembed.net,femoload.club,feurl.com,fhvap.com,fplayer.info,gaobook.review,gcloud.live,jplayer.net,luxubu.review,mavplay.com,mavplayer.xyz,moviepl.xyz,mrdhan.com,novelplanet.me,playfinder.xyz,playvid.host,playvideo.best,qdembed.com,rubicstreaming.com,sendvid.net,suzihaza.com,vaplayer.xyz,vcdn.space,vcdn2.space,weirdmovies.xyz,xstreamcdn.com,youtnbe.xyz,zidiplay.com###vstr > div[style*="background-size:contain;"]:style(filter:blur(8px))
+
+! yourupload
+yourupload.com##.jw-preview.jw-reset:style(filter:blur(8px))
+
+! kwik
+kwik.cx##.plyr__poster:style(filter:blur(8px)!important;)
+
+! ok.ru
+ok.ru##.vid-card_img:style(filter:blur(8px))
+
+! Netu.tv
+hqq.tv###bot_click:style(filter:blur(8px)!important;)
+
+! vidoza.net
+vidoza.net##.vjs-poster:style(filter:blur(8px)!important;)
+
+! vidstreaming
+vidstreaming.io,vidstreaming.me##.jw-preview.jw-reset:style(filter:blur(8px);)
+
+! aniyan formerly branitube
+aniyan.net##.jw-preview.jw-reset:style(filter:blur(8px) saturate(150%);)
+
+! trollvid
+mp4.sh##.vjs-poster:style(filter:blur(8px) saturate(150%))
+
+! mega.nz
+mega.nz###video:not([src]):style(filter:blur(8px))
+
+! bitchute.com
+bitchute.com##.plyr__poster:style(filter:blur(6px)!important)
+
+! cloudvideo.tv
+cloudvideo.tv##.vjs-poster:style(filter:blur(8px) saturate(2))
+
+! dailymotion.com
+dailymotion.com##.np_ViewPoster-image:style(filter:blur(8px) saturate(1.25))
+
+! haloani.ru
+haloani.ru##.jw-preview.jw-reset,.vjs-poster:style(filter:blur(8px) saturate(1.25)!important)
+
+! freshstream.kiwi
+freshstream.kiwi##.vjs-poster:style(filter:blur(8px) saturate(1.5))
+
+! hydrax
+embed.streamx.live,hydrax.net,playhydrax.com,redirect-ads.com,replay.watch##.jw-preview.jw-reset,#over:style(filter:blur(8px) saturate(1.25))
+playhydrax.com###over > #playback-fake
+
+! trollvid.net
+trollvid.net##.vjs-poster:style(filter:blur(8px) saturate(1.5))
+
+! vshare.io
+vshare.io##.vjs-poster:style(filter:blur(8px) saturate(1.35)!important;)
+
+! animo pace
+animo-pace-stream.io##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.25)!important)
+
+! onlystream.tv
+onlystream.tv##.jw-preview.jw-reset:style(filter:blur(8px) saturate(150%);)
+
+! upvid
+upvid.*##.vjs-poster:style(filter:blur(8px) saturate(1.2);)
+
+! yfvf.com
+yfvf.com##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! moeclip.com
+moeclip.com##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! mixdrop
+mixdrop.*##.vjs-poster:style(filter:blur(8px) saturate(1.2))
+
+! upstream.to
+upstream.to##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.25))
+
+! video.sibnet.ru
+video.sibnet.ru##.vjs-poster:style(filter:blur(8px) saturate(1.5))
+
+! turkanime
+turkanime.*##.jw-preview.jw-reset:style(filter:blur(8px))
+
+! fastplay.to
+fastplay.to##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! odnoklassniki.ru
+odnoklassniki.ru##.vid-card_img:style(filter:blur(8px))
+
+! tune.pk
+embed.tune.pk##.media-cover:style(filter:blur(7px) saturate(1.5))
+
+! jetload.net
+jetload.net##.vjs-poster:style(filter:blur(8px) saturate(1.2))
+
+! vidfast.co
+vidfast.co##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! vidmoly.me
+vidmoly.me,vidmoly.to##.jw-preview.jw-reset:style(filter:blur(8px))
+
+! vidsat.net
+vidsat.net##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.5))
+
+! saruch.co
+saruch.co##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! solidfiles.com
+solidfiles.com##.vjs-poster:style(filter:blur(8px))
+
+! feralhosting.com
+feralhosting.com##.vjs-poster:style(filter:blur(8px) saturate(1.25))
+
+! animeshouse.net
+animeshouse.net##.jw-preview.jw-reset:style(filter:blur(8px) saturate(.9))
+
+! lockharte-ah.gq & ganessa-ah.ga
+lockharte-ah.gq,ganessa-ah.ga##.jw-preview.jw-reset:style(filter:blur(8px) saturate(.9))
+
+! gdriveplayer
+gdriveplayer.*##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.5))
+
+! dreamsub.stream
+dreamsub.stream##.vjs-poster:style(filter:blur(8px) saturate(1.5))
+
+! gounlimited.to
+gounlimited.to##.vjs-poster:style(filter:blur(8px) saturate(1.5))
+
+! vev
+vev.*,vidup.*##.vjs-poster:style(filter:blur(8px) saturate(1.5)!important)
+
+! doodstream
+dood.*,doodstream.com##.vjs-poster:style(filter:blur(8px) saturate(1.5))
+dood.*,doodstream.com##+js(ra, poster, #video_player_html5_api)
+
+! streamz
+streamz.cc##.vjs-poster:style(filter:blur(8px) saturate(1.7))
+
+! vidbm
+vidbm.com##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.5))
+
+! ani-stream
+ani-stream.com##.jw-preview.jw-reset,.vjs-poster:style(filter:blur(8px) saturate(1.5))
+
+! sendvid.com
+! different from sendvid.net which is a fembed site
+sendvid.com##.vjs-poster:style(filter:blur(8px) saturate(1.25))
+
+! tranimeizle
+tranimeizle.com##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.5))
+
+! easyload
+easyload.io##.vjs-poster:style(filter:blur(10px) saturate(1.5))
+
+! clipwatching
+clipwatching.com##.vjs-poster:style(filter:blur(10px) saturate(1.5))
+
+! streamz
+streamcrypt.net,streamz.*##.vjs-poster:style(filter:blur(8px))
+
+! animesonline.cz
+animesonline.cz##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.25))
+
+! NXLoad.com
+nxload.com##.vjs-poster:style(filter:blur(8px) saturate(1.25))
+
+! supervideo.tv
+supervideo.tv##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.25))
+
+! streamwire.net
+streamwire.net##.vjs-poster:style(filter:blur(8px))
+
+! hxload.to
+hxload.*##.jw-preview.jw-reset:style(filter:blur(8px))
+
+! voe.sx
+voe.sx##.plyr__poster:style(filter:blur(8px) saturate(1.25))
+
+! ninjastream
+ninjastream.to##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! streamSB
+cloudemb.com,embedsb.com,pelistop.co,playersb.com,sbembed.com,sbembed1.com,sbembed2.com,sbembed3.com,sbembed4.com,sbflix.xyz,sbplay.*,sbplay1.com,sbplay2.*,sbvideo.net,streamas.cloud,streamsb.com,streamsb.net,tubesb.com,viewsb.com,watchsb.com##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.5))
+cloudemb.com,embedsb.com,pelistop.co,playersb.com,sbembed.com,sbembed1.com,sbembed2.com,sbembed3.com,sbembed4.com,sbflix.xyz,sbplay.*,sbplay1.com,sbplay2.*,sbvideo.net,streamas.cloud,streamsb.com,streamsb.net,tubesb.com,viewsb.com,watchsb.com###play-now
+cloudemb.com,embedsb.com,pelistop.co,playersb.com,sbembed.com,sbembed1.com,sbembed2.com,sbembed3.com,sbembed4.com,sbflix.xyz,sbplay.*,sbplay1.com,sbplay2.*,sbvideo.net,streamas.cloud,streamsb.com,streamsb.net,tubesb.com,viewsb.com,watchsb.com###desk:style(filter:blur(8px) saturate(1.5) !important)
+
+! StreamTape
+adblockstreamtape.*,adblockstrtape.link,adblockstrtech.link,scloud.online,shavetape.*,stape.*,strcloud.*,streamta.*,streamtape.*,streamtapeadblock.art,strtape.*,strtapeadblock.*,strtpe.link##.plyr--stopped > .plyr__video-wrapper > video:style(filter:blur(8px) saturate(1.5))
+
+! streamHD
+streamhd.cc##.jw-preview.jw-reset,#over:style(filter:blur(8px) saturate(1.25))
+
+! videovard
+videovard.sx,videovard.to##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! playdrive
+playdrive.xyz##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! vidbam
+vidbam.org##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.5))
+
+! streamlare
+streamlare.com##.jw-preview.jw-reset:style(filter:blur(8px) saturate(1.2))
+
+! highload
+highload.to##.vjs-poster:style(filter:blur(8px) saturate(1.5))

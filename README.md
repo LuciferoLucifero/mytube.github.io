@@ -1,29 +1,23 @@
-# AnimeTV
-![Cover Image](./cover.jpg)
+# Anifiltrs
+A collection of filter lists for anime streaming, manga reading, and downloading of such things.
 
-This is a flask application used for browsing, searching and watching animes. The application is built on top of AniAPI and Beyonic API
+-------------
 
-<hr />
+**MAL-Sync UI** [[Subscribe]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/MAL-Sync%20UI.txt&title=Anifiltrs%20%E2%80%94%20%F0%9F%8D%9A%20MAL-Sync%20UI)
+* Allow MAL-Sync Shark to get URLs for missing players
+* Filters for unbreaking favicons and images on [MAL-Sync](https://github.com/MALSync/MALSync) miniMal iframe[userscript verson only]
+* Prevent other things from interfering with some of MAL-Sync’s functionalities
 
-### Prequisites 
-In order to setup the website you'll first need to install depedancies and setup the .env file
-to install all the dependancies. First move into the `src` folder and execute the command
-```
-pip install -r requirements.txt
-```
+**Anifiltrs** [[Subscribe]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifltrs.txt&title=Anifiltrs%20%E2%80%94%20%F0%9F%8D%B1%20Anime%20streaming%20%26%20Manga%20reading)
+* Includes MAL-Sync UI
+* Cosmetic filters for MAL-Sync’s [supported sites](https://github.com/MALSync/MALSync#supported-pages-)
+* Filters for some ads found on the said supported sites
+* Includes [Blur Preview Thumbnails](https://github.com/Karmesinrot/Anifiltrs/tree/master/Blur%20Preview%20Thumbnails#blur-preview-thumbnails) filters
+* Other hotfixes for Anime and Manga sites
 
-After a successful installation, create a `.env` file inside the src folder and add in
-```txt
-BEARER_TOKEN=" <your aniapi token> "
+**Anifiltrs Extra** [[Subscribe]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%20Extra.txt&title=Anifiltrs%2FExtra)
+* Additional filters for sites unsupported by MAL-Sync
 
-BASE_URL = 'https://api.aniapi.com/v1'
+## Disclaimer
 
-WEBSITE_URL = 'http://localhost:5000/'
-```
-
-To get the aniapi token, You'll have to signup to the [AniAPI Website](https://aniapi.com/login/) 
-
-To run the application run :
-```
-python main.py
-```
+*For users of uBlock Origin legacy*: the filter lists contains syntaxes and resources which are not available on your version. Breakage may occur when using the filter lists.

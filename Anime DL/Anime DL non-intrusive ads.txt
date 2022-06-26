@@ -1,0 +1,8 @@
+! Title: Anime DL non-intrusive ads
+! Expires: 14 days
+! Homepage: https://github.com/Karmesinrot/Anifiltrs
+! Description: Whitelists non-intrusive ads on Anime DL sites
+
+! Horriblesubs
+! allow non-intrusive ads
+@@||horriblesubs.info/images^$image,first-party
